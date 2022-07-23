@@ -108,3 +108,13 @@ body{
     font-size: 20px;
     margin-bottom: 40px;
 }
+
+.container{
+    background-color: #151515;
+    height: calc(100vh - 50px);
+    color: white;
+}
+
+.content-container{
+    margin-left: 50px;
+}
