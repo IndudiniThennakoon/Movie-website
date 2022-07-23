@@ -51,8 +51,15 @@ body{
     margin-right:30px;
 }
 
+.profile-text-container{
+    margin: 0 20px;  /* left and right margin */
+}
 .profile-container{
     flex: 2;
+    display: flex;
+    align-items: center;
+    
+
 }
 
 .profile-picture{
@@ -71,5 +78,3 @@ body{
     position: fixed;
     top: 0;
 }
-
-
