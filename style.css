@@ -123,8 +123,3 @@ body{
     height: 50vh;
 }
 
-.feature-picture{
-    height: 330px;
-    width: 1485px;
-   background-image:linear-gradient(to bottom,rgba(0,0,0,0),#151515);
-}
